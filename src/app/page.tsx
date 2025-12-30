@@ -93,7 +93,7 @@ export default function Home() {
                 Dar o primeiro passo pode ser difícil, mas você não precisa fazer
                 isso sozinho(a).
               </h2>
-              <button className={`bg-[#785964] hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-4xl shadow-black shadow-md ${windowWidth! <= 800 ? "hidden" : "block"}`}>
+              <button className={`bg-[#785964] hover:bg-[#5a414a] text-white font-bold py-2 px-4 rounded-4xl shadow-black shadow-md ${windowWidth! <= 800 ? "hidden" : "block"}`}>
             Agende sua consulta
           </button>
             </div>
